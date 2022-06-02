@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available on my blog, which I regularly write articles 📝 on [https://ma1kawi.github.io/](https://ma1kawi.github.io/)
 - 💬 Ask me about **Java, C++ and AI**
 - 📫 You can reach me on **GitHub**
-- 📄 Know about my experiences [https://www.linkedin.com/in/malkawi/](https://www.linkedin.com/in/malkawi/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mahdimalkawi/](https://www.linkedin.com/in/mahdimalkawi/)
 - ⚡ Fun fact **my favourite game is Dota 2**
 
 <h3 align="left">Connect with me:</h3>
