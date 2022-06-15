@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahdi Malkawi</h1>
 <h3 align="center">A passionate Computer Science student from the United Kingdom</h3>
 
+![](https://komarev.com/ghpvc/?username=malkawimahdi&color=blueviolet)
+
 - 🔭 I’m currently working on **private university projects**
 - 🌱 I’m currently learning **the Hugo Framework**
 - 👯 I’m looking to collaborate on **open source projects**
