@@ -11,6 +11,11 @@
 - 📫 You can reach me and 📄 Know about my experiences [https://www.linkedin.com/in/mahdimalkawi/](https://www.linkedin.com/in/mahdimalkawi/)
 - ⚡ Fun fact **my favourite game is Dota 2**
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=malkawimahdi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/malkawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malkawi" height="30" width="40" /></a>
