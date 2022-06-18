@@ -17,7 +17,6 @@
 </p>
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
 
 I'm a highly motivated student, who is currently studying at City, University of London, aiming to achieve a First-Class Honours degree. I am intrigued by technology, and enjoy pursuing personal projects outside of study, solving day-to-day challenges. I am hoping to utilize my drive, technical ability and collaborative skills to grow within the remit of Technical Support/Networking or Software Engineering.
 
@@ -26,11 +25,8 @@ I'm a highly motivated student, who is currently studying at City, University of
  / __ \___  ___ ___    / __/__  __ _____________  
 / /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
 \____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
+   _/_/              
+
 ```
 
 I dedicate some of my leisure time to contribute to open-source projects on GitHub. By utilising the knowledge I have gained, I like to work upon open source projects to increase my understanding of critical and commercial software whilst also improving the software.
