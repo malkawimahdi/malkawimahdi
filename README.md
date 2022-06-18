@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on **enhancing my knowledge and contributing to open source projects**
 - 🌱 I’m currently learning **C, Python**
 - 👯 I’m looking to collaborate on **open source projects**
-- 👨‍💻 All of my projects are available on my blog, which I regularly write articles 📝 on [https://mahdimalkawi.github.io/](https://mahdimalkawi.github.io/)
+- 👨‍💻 All of my projects are available on my blog, which I regularly write articles 📝 on [mahdimalkawi.github.io](https://mahdimalkawi.github.io/)
 - 💬 Ask me about **Java/C++/AI**
-- 📫 You can reach me and 📄 Know about my experiences [https://www.linkedin.com/in/mahdimalkawi/](https://www.linkedin.com/in/mahdimalkawi/)
+- 📫 You can reach me and 📄 Know about my experiences [linkedin.com/in/mahdimalkawi](https://www.linkedin.com/in/mahdimalkawi/)
 - ⚡ Fun fact **my favourite game is Dota 2**
 
 <h3 align="left">Connect with me:</h3>
