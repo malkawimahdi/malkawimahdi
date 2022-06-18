@@ -11,7 +11,7 @@
 - 📫 You can reach me and 📄 Know about my experiences [linkedin.com/in/mahdimalkawi](https://www.linkedin.com/in/mahdimalkawi/)
 - ⚡ Fun fact **my favourite game is Dota 2**
 
-<h3 align="left">Connect with me:</h3>
+🔗<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/malkawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malkawi" height="30" width="40" /></a>
 </p>
