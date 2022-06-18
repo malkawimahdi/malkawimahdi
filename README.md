@@ -33,8 +33,6 @@ I dedicate some of my leisure time to contribute to open-source projects on GitH
 
 </details> 
 
-🛠️ &nbsp;**Languages and Tools:**
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
