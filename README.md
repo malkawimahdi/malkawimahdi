@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=malkawimahdi&label=Mahdi's+Profile+Views&color=blue)
 
-- 🔭 I’m currently working on **private university projects**
+- 🔭 I’m currently working on **enhancing my knowledge and contributing to open source projects**
 - 🌱 I’m currently learning **C, Python**
 - 👯 I’m looking to collaborate on **open source projects**
 - 👨‍💻 All of my projects are available on my blog, which I regularly write articles 📝 on [https://ma1kawi.github.io/](https://ma1kawi.github.io/)
