@@ -4,12 +4,11 @@
 ![](https://komarev.com/ghpvc/?username=malkawimahdi&label=Mahdi's+Profile+Views&color=blue)
 
 - 🔭 I’m currently working on **private university projects**
-- 🌱 I’m currently learning **C and Python**
+- 🌱 I’m currently learning **C, Python**
 - 👯 I’m looking to collaborate on **open source projects**
 - 👨‍💻 All of my projects are available on my blog, which I regularly write articles 📝 on [https://ma1kawi.github.io/](https://ma1kawi.github.io/)
-- 💬 Ask me about **Java, C++ and AI**
-- 📫 You can reach me on **GitHub**
-- 📄 Know about my experiences [https://www.linkedin.com/in/mahdimalkawi/](https://www.linkedin.com/in/mahdimalkawi/)
+- 💬 Ask me about **Java/C++/AI**
+- 📫 You can reach me and 📄 Know about my experiences [https://www.linkedin.com/in/mahdimalkawi/](https://www.linkedin.com/in/mahdimalkawi/)
 - ⚡ Fun fact **my favourite game is Dota 2**
 
 <h3 align="left">Connect with me:</h3>
