@@ -37,7 +37,7 @@ I dedicate some of my leisure time to contribute to open-source projects on GitH
   
   <summary><b>👨‍💻&nbsp;Most&nbsp;Used&nbsp;Languages</b></summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malkawimahdi&langs_count=10)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malkawimahdi&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=malkawimahdi&langs_count=10)
 
 </details> 
 
