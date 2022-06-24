@@ -34,10 +34,10 @@ I dedicate some of my leisure time to contribute to open-source projects on GitH
 </details>
 
 <details>
-19
+  
   <summary><b>👨‍💻&nbsp;Most&nbsp;Used&nbsp;Languages</b></summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malkawimahdi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malkawimahdi)](https://github.com/anuraghazra/github-readme-stats)
 
 </details> 
 
