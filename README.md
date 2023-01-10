@@ -1,5 +1,5 @@
 ```console
-mahdimalkawi@GitHub:~$ whoami
+mahdimalkawi@GitHub:~$ cat /proc/self/environ
   _   _      _ _
  | | | | ___| | | ___  
  | |_| |/ _ \ | |/ _ \ 
