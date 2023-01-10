@@ -10,4 +10,5 @@ char* const NAME = "Mahdi Malkawi";
 char* location = "London, United Kingdom";
 char* const operatingSystem = "Fedora Linux 37 (Workstation Edition) x86_64";
 char* const BLOG = "https://malkawimahdi.github.io/"
+char* const LINKEDIN = "https://www.linkedin.com/in/mahdimalkawi/"
 ```
