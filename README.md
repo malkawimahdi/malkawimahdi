@@ -9,5 +9,6 @@ mahdimalkawi@GitHub:~$ whoami
 char* const NAME = "Mahdi Malkawi";
 char* location = "London, United Kingdom";
 char* const operatingSystem = "Fedora Linux 37 (Workstation Edition) x86_64";
-char* const BLOG = "[malkawimahdi.github.io](https://malkawimahdi.github.io/)"
 ```
+char* const BLOG = "[malkawimahdi.github.io](https://malkawimahdi.github.io/)"
+
