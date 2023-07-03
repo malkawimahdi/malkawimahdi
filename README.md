@@ -6,9 +6,8 @@ mahdimalkawi@GitHub:~$ cat /proc/self/environ
  |  _  |  __/ | | (_) |
  |_| |_|\___|_|_|\___/
 
-char* const NAME = "Mahdi Malkawi";
-char* location = "London, United Kingdom";
-char* const operatingSystem = "Fedora Linux 37 (Workstation Edition) x86_64";
-char* const BLOG = "https://malkawimahdi.github.io/"
-char* const LINKEDIN = "https://www.linkedin.com/in/mahdimalkawi/"
+Name=Mahdi_Malkawi
+Location=London_United_Kingdom
+OS=ArchLinux
+Blog=https://malkawimahdi.github.io/
 ```
